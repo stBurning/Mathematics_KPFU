@@ -3,6 +3,7 @@
 ### Index
 + [Математический анализ](/links/mathematical-analysis.md)
 * [Алгебра](#Алгебра) 
+* [Функциональный анализ](/links/functional-analysis.md) 
 #
 #
 #
